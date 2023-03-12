@@ -1,3 +1,5 @@
+[<<< Back](https://github.com/ayaneotools/info/blob/main/README.md)
+
 # Known issues with the Ayaneo 2
 
 It has been discovered by the community that the Ayaneo 2 with the 2TB SSD 
